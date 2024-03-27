@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Chettisky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and Java language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python, Ruby and Java language
+- 📫 How to reach me https://www.linkedin.com/in/pedro-henrique-nunes-marchetti-359517233/
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 
 
