@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning Python, Ruby and Java language
 - 📫 How to reach me https://www.linkedin.com/in/pedro-henrique-nunes-marchetti-359517233/
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: 
 
 <!---
 Chettisky/Chettisky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
